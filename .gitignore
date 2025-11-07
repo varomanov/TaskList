@@ -1,0 +1,4 @@
+ex*.py
+res*.py
+*env
+.DS_Store
